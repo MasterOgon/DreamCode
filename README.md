@@ -1,6 +1,6 @@
 # DreamCode
 <div align="center">
-  <img src="https://video.twimg.com/tweet_video/G759BADWoAAuZac.mp4" width="80%"/>
+  <img src="https://www.masterogon.art/wp-content/uploads/2018/06/4.jpg" width="80%"/>
 </div>
 
 
