@@ -1,4 +1,4 @@
-# DreamCode-
+# DreamCode
 Hello everyone! I'm not a specialist in LLMs programming, but I had an idea for an AI application that could advance my research into dreams.
 
 There is a connection between dreams and future events, which is supported by research such as this: https://doi.org/10.11588/ijodr.2023.1.89054. Most likely, the brain processes all available information during sleep and makes predictions.
