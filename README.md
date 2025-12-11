@@ -51,5 +51,11 @@ However, the application will not make unequivocal predictions that could influe
 
 If desired, users will be able to participate in the dream study by anonymously sharing their statistics in an open database of predictive dream patterns, making contribution to the science of consciousness.
 
-Open to cooperation.
+Open to cooperation. No funding.
 
+<div align="center">
+
+`#AI` `#LLM` `#Neuroscience` `#Dreams` `#Precognition`  
+`#Psychology` `#Consciousness` `#OpenSource` `#Research` `#Python` `#Extrasensory`
+
+</div>
