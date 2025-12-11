@@ -4,7 +4,7 @@
   <br><br>
 </div>
 
-# Extrasensory perception is real and we all have it, but don't realize because it works through emotions. People are very sensitive in light sleep, and also dream of things they cannot know. And this can be proven.
+##### Extrasensory perception is real and we all have it, but don't realize because it works through emotions. People are very sensitive in light sleep, and also dream of things they cannot know. And this can be proven.
 
 Here's an idea of AI tool for researching predictive dreams used statistics and method of decoding dreams which is based on personalized language of associative symbols of recurring dreams. This method was tested for many years of experience in self-research, but requires a precise instrument for proof.
 
