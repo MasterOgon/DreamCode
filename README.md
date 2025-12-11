@@ -9,7 +9,7 @@
 <div align="center">
 
 `#AI` `#LLM` `#Neuroscience` `#Dreams` `#Precognition`  
-`#Psychology` `#Consciousness` `#OpenSource` `#Research` `#Python`
+`#Psychology` `#Consciousness` `#OpenSource` `#Research` `#Python` `#Extrasensory`
 
 </div>
 
