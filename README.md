@@ -4,18 +4,9 @@
   <br><br>
 </div>
 
-<div align="center">
-  <h2><b>Extrasensory perception is real and we all have it,</b><br>
-  <b>but don't realize because it works through emotions.</b></h2>
-  
-  <h3><b>People are very sensitive in light sleep<br>
-  and dream of things they cannot possibly know.</b><br><br>
-  <b>And this can be proven.</b></h3>
-</div>
+# Extrasensory perception is real and we all have it, but don't realize because it works through emotions. People are very sensitive in light sleep, and also dream of things they cannot know. And this can be proven.
 
-Hello everyone! I'm not a specialist in LLMs programming, but I had an idea for an AI application that could advance my research into dreams.
-
-There is a connection between dreams and future events, which is supported by research such as this: https://doi.org/10.11588/ijodr.2023.1.89054. Most likely, the brain processes all available information during sleep and makes predictions.
+Therere is a connection between dreams and future events, which is supported by research such as this: https://doi.org/10.11588/ijodr.2023.1.89054. Most likely, the brain processes all available information during sleep and makes predictions.
 
 I have long been fascinated by things like lucid dreaming and out-of-body experiences, and I also had a very vivid near-death experience as a child. As a result of analyzing my experiences over many years, I found a method for deciphering my dreams, which allowed me not only to detect correlations but also to predict certain specific events.
 
