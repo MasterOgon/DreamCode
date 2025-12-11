@@ -4,7 +4,14 @@
   <br><br>
 </div>
 
-
+<div align="center">
+  <h2><b>Extrasensory perception is real and we all have it,</b><br>
+  <b>but don't realize because it works through emotions.</b></h2>
+  
+  <h3><b>People are very sensitive in light sleep<br>
+  and dream of things they cannot possibly know.</b><br><br>
+  <b>And this can be proven.</b></h3>
+</div>
 
 Hello everyone! I'm not a specialist in LLMs programming, but I had an idea for an AI application that could advance my research into dreams.
 
