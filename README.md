@@ -1,61 +1,71 @@
-# DreamCode is an open-source project exploring the predictive nature of dreams.
-<div align="center">
-  <img src="https://www.masterogon.art/wp-content/uploads/2018/06/4.jpg" width="100%"/>
-  <br><br>
-</div>
+readme_lines = [
+    '<img src="https://www.masterogon.art/wp-content/uploads/2018/06/4.jpg" width="100%"/>',
+    '',
+    '# DreamCode: AI-Driven Signal Detector for Anomalous Cognition and UAP Imagery',
+    '',
+    'An open-source artificial intelligence framework designed for collecting, parsing, and decoding anomalous information received by subjects during Altered States of Consciousness (ASC)—including ordinary dreams, lucid dreams, out-of-body experiences (OBE), and near-death experiences (NDE).',
+    '',
+    'Instead of tracking human-to-human social similarities, **DreamCode isolates collective information patterns from individual psychological noise**, serving as an empirical detector for non-local, precognitive, and Unidentified Anomalous Phenomena (UAP) related signals.',
+    '',
+    '## 🌌 Core Hypothesis & Research Background',
+    '',
+    'The primary research question driving this project is: **Can humanity or individual humans unconsciously, through extrasensory perception, explore other worlds, communicate with other minds, and foresee the future, translating the information received into their own interpretations?**',
+    '',
+    'Rooted in over a decade of systematic observation following a childhood near-death experience, this project operates on the hypothesis that human dreams and ASCs act as highly sensitive neurocognitive windows. External non-local signals, which are fundamentally emotional or multi-dimensional, are rarely received by the brain in a literal, descriptive format. Instead, the cognitive matrix translates these signals into deeply individualized, symbolic associative imagery based on the perceiver\'s unique memory architecture.',
+    '',
+    'By analyzing large datasets of subjective narratives across their underlying semantic, emotional, and archetypal vectors, DreamCode maps structural commonalities emerging simultaneously among independent, unconnected percipients—revealing true objective signals historically dismissed as subjective "dream mythology."',
+    '',
+    '---',
+    '',
+    '## 🛠 Technical Architecture & Methodology',
+    '',
+    'DreamCode utilizes a three-phase methodology combining qualitative phenomenology with unsupervised computational data science:',
+    '',
+    '```',
+    '[ Raw Narrative Input ] ➔ [ Sentence Segmentation & Filtering ]',
+    '                                      ↓',
+    '[ Core Signal Isolation ] 🔀 [ Multi-dimensional Vector Embeddings ]',
+    '                                      ↓',
+    '[ Unsupervised Clustering ] ➔ [ Semantic Pattern Maps & Co-occurrence Index ]',
+    '```',
+    '',
+    '### 1. Data Ingestion & Privacy Preservation',
+    '*   **Decentralized Web Application:** A lightweight web interface allowing global users to log detailed descriptions of anomalous experiences anonymously.',
+    '*   **Rigid Classification:** Inputs are segmented by state (Ordinary Dream, Lucid Dream, OBE, NDE) and calibrated against a standardized 3-point scale measuring emotional valence (Positive, Neutral, Negative) and subjective intensity.',
+    '',
+    '### 2. Natural Language Processing & High-Dimensional Embedding',
+    '*   **Granular Sentence Segmentation:** Narratives are parsed at the scene/sentence level using precise regular expression boundary extractors to isolate distinct events (e.g., separating a "red planet" scene from a "tunnel" scene within the same report).',
+    '*   **Dense Vectorization:** Extracted text fragments are transformed into dense 384-dimensional vector spaces using the state-of-the-art `all-MiniLM-L6-v2` SentenceTransformer architecture.',
+    '',
+    '### 3. Unsupervised Pattern Extraction & Clustering Engine',
+    '*   **Blind Archetype Detection:** The system feeds vectors into an unsupervised `KMeans` algorithm to identify mathematical intersections without human prompt biases.',
+    '*   **Dimensionality Reduction:** High-dimensional thematic clusters are projected onto a 2D space using **t-SNE (t-Distributed Stochastic Neighbor Embedding)** to construct a **Semantic Pattern Map**. Dense regions in the cloud signify independent, recurring information structures.',
+    '*   **Representative Motif Synthesis:** For every emergent cluster, the engine computes centroid proximities using cosine distances to mathematically extract the most representative phrase, serving as an automatically discovered archetype, backed by full cross-validation and raw text evidence.',
+    '',
+    '---',
+    '',
+    '## 🚀 Live Application',
+    '',
+    'The fully operational analytical engine is embedded directly on the project\'s website:',
+    '🔗 **[Access the Live DreamCode Platform](https://www.masterogon.art/index.php/dreamcode/)**',
+    '',
+    '*The application is entirely free, decentralized, and anonymous. Submit your experiences under the "Data Ingestion" tab and monitor emergent collective signals under the "AI Pattern Discovery" workspace.*',
+    '',
+    '---',
+    '',
+    '## 📚 Publications & Academic Context',
+    '',
+    '*   **Kandyba, P. (2024).** *Extrasensory perception in dreams through emotions and symbols.* International Journal of Dream Research, 17(1).',
+    '    🔗 [https://doi.org/10.11588/ijodr.2024.1.102315](https://doi.org/10.11588/ijodr.2024.1.102315)',
+    '',
+    '---',
+    '',
+    '## 🏷️ Keywords & Fields of Interest',
+    '',
+    '#Consciousness #AnomalousCognition #ExtraterrestrialIntelligence #UAP #UFO #LucidDreaming #OutofBodyExperience #OBE #NearDeathExperience #NDE #Noetics #MachineLearning #NaturalLanguageProcessing #SemanticAnalysis #UnsupervisedClustering #DataScience #Astrophysics #SignalDetection #CollectiveUnconscious #DreamCode'
+]
 
-### Extrasensory perception is real and we all have it, but don't realize because it works through emotions. People are very sensitive in light sleep, and also dream of things they cannot know. And this can be proven.
+with open("README.md", "w", encoding="utf-8") as f:
+    f.write("\n".join(readme_lines))
 
-<div align="center">
-
-`#AI` `#LLM` `#Neuroscience` `#Dreams` `#Precognition`  
-`#Psychology` `#Consciousness` `#OpenSource` `#Research` `#Python` `#Extrasensory`
-
-</div>
-
-Here's an idea of AI tool for researching predictive dreams used statistics and method of decoding dreams which is based on personalized language of associative symbols of recurring dreams. This method was tested for many years of experience in self-research, but requires a precise instrument for proof.
-
-This may help people whose precognitive dreams are associated with exacerbations of chronic diseases better understand what wrong actions should be avoided in the future. This may also shed light on the brain's predictive capabilities and neuroscience in general. It also touches on the issue of extrasensory perception possibility and predicting the future.
-
-Therere is a connection between dreams and future events, which is supported by research such as this: https://doi.org/10.11588/ijodr.2023.1.89054. Most likely, the brain processes all available information during sleep and makes predictions.
-
-I have long been fascinated by things like lucid dreaming and out-of-body experiences, and I also had a very vivid near-death experience as a child. As a result of analyzing my experiences over many years, I found a method for deciphering my dreams, which allowed me not only to detect correlations but also to predict certain specific events.
-
-The method is based on the statistics of coincidences between various recurring dreams and events. Here is how it works. Most dreams convey information not literally, but through a personal language of associative symbols that transmit emotional experience.
-
-For example, I have a long-established association, a phrase from an old movie: "A dog is a man's best friend." I dream of a dog, and a friend appears in my reality. The behavior or other characteristics of the dog in the dream are the same as those of that person in real life.
-
-The exact time and circumstances remain unknown, but every time I have a dream with different variations of a recurring element, it is followed by an event corresponding to the symbolism of the dream and its emotional significance.
-
-A rare exception is a literal prediction; you see almost everything in the dream as it will happen in reality or close to it. The accuracy of the vision directly depends on the emotional weight of the dream.
-
-The more vivid, memorable, and lucid the dream, the more significant the event it conveys, and conversely, the more vague and surreal the dream, the more mundane the situations it predicts.
-
-Another criterion is valence, an evaluation on a bad-good scale. Both of these criteria—emotional weight and valence—form dream patterns that are projected onto real-life events.
-
-Thus, by tracking recurring dreams and events, and comparing them using qualitative patterns, it is possible to determine the meaning of dream symbols to subsequently decipher dreams and predict events in advance.
-
-There is another very important point. I do not deny the mechanism of predictive processing of previously received information, but, based on personal experience, I cannot agree that it is exhaustive. It cannot explain the absolutely accurate observation of things or the experiencing of events that could not be derived from the available information, and which occurred years or even decades after they were predicted.
-
-In neuroscience, interbrain synchrony is actively being studied, where the brain waves of different people can synchronize, for example, while playing online games, even if they are in different rooms far apart. https://www.sciencedirect.com/science/article/pii/S0028393222001750?via%3Dihub
-
-In my experiences during the transition to an out-of-body state, as well as in ordinary life, I have repeatedly encountered a very pronounced reaction from people around me that correlated with my emotional state. At the same time, these people could be in another room, or even in another part of the city, and I was not externally expressing my state in any way. Most often, such a reaction was observed in people in a state of light sleep. I could practically control their reaction to some extent by changing my emotional state, and they tried to respond by talking in their sleep. Therefore, I believe that prophetic dreams are a prediction, but one based on a much larger amount of information, including extrasensory perception.
-
-All my experience is published here (editorial / opinion Piece): https://doi.org/10.11588/ijodr.2024.1.102315, and is currently purely subjective and only indirectly confirmed by people reporting similar experiences.
-
-Therefore, I had the idea to create an AI tool, an application, that can turn the subjective experience of many people into accurate scientific data and confirm the extrasensory predictive ability of dreams in situations where a forecast based on previously obtained data is insufficient.
-
-The application would resemble a typical dream interpreter where dreams and real-life events would be entered by voice or text. The AI would track patterns and display statistics, gradually learning the user's individual dream language and increasing the accuracy of predictions.
-
-However, the application will not make unequivocal predictions that could influence the user's decisions, but rather provide a tool for self-exploration, focusing on personal growth and spiritual development.
-
-If desired, users will be able to participate in the dream study by anonymously sharing their statistics in an open database of predictive dream patterns, making contribution to the science of consciousness.
-
-Open to cooperation. No funding.
-
-<div align="center">
-
-`#AI` `#LLM` `#Neuroscience` `#Dreams` `#Precognition`  
-`#Psychology` `#Consciousness` `#OpenSource` `#Research` `#Python` `#Extrasensory`
-
-</div>
+print("README.md updated successfully.")
