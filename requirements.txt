@@ -1,0 +1,7 @@
+gradio
+pandas
+sentence-transformers
+spaces
+scikit-learn
+matplotlib
+seaborn
