@@ -1,5 +1,7 @@
 # DreamCode: AI-Driven Signal Detector for Anomalous Cognition and UAP Imagery
 
+<img src="https://www.masterogon.art/wp-content/uploads/2018/06/4.jpg" width="100%"/>
+
 **An open-source artificial intelligence framework** designed for collecting, parsing, and decoding anomalous information received by subjects during **Altered States of Consciousness (ASC)** — including ordinary dreams, lucid dreams, out-of-body experiences (OBE), and near-death experiences (NDE).
 
 Instead of tracking human-to-human social similarities, **DreamCode** isolates collective information patterns from individual psychological noise, serving as an empirical detector for non-local, precognitive, and **Unidentified Anomalous Phenomena (UAP)** related signals.
